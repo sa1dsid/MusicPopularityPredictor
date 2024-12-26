@@ -23,15 +23,15 @@
    ```bash
    git clone https://github.com/yourusername/MusicPopularityPredictor.git
 Перейдите в положение с проектом:
-Баш
-
-Копировать код
+```bash
 cd MusicPopularityPredictor
+```
 Установите в зависимости:
-Баш
 
-Копировать код
+
+```bash
 pip install -r requirements.txt
+```
 Использование
 Обеспечьте наличие датасета data.csvв корневой привязанности проекта.
 Запустите скрипт:
