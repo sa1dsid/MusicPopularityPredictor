@@ -45,4 +45,5 @@ python main.py
 - pandas
 - scikit-learn
 - PyTorch
+
 Все в зависимости от того, может быть установлено из файла requirements.txt.
