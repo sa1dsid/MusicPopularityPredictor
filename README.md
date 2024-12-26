@@ -42,7 +42,7 @@ python main.py
 Затем проведите анализ результатов.
 
 ## Зависимости
-pandas
-scikit-learn
-PyTorch
+-pandas
+-scikit-learn
+-PyTorch
 Все в зависимости от того, может быть установлено из файла requirements.txt.
